@@ -4,6 +4,9 @@
 
 This repository demonstrates the power of **meta-prompts** — templates that help you systematically create effective prompts for any domain. Using a Space Travel Booking Platform as our example, we'll show you how to go from a generic template to a working web application.
 
+Everything starts from a short **championship story**: the narrative problem statement for "Dubai to the Stars – The Ultimate Space Travel Experience."  
+You can read that original brief here: [`Championship-Story-Dubai-to-the-Stars.md`](./Championship-Story-Dubai-to-the-Stars.md).
+
 ---
 
 ## 🤔 What is a Meta-Prompt?
@@ -244,6 +247,7 @@ This meta-prompt approach works for any domain:
 | File | Purpose | Audience |
 |------|---------|----------|
 | `README.md` | This guide | Everyone |
+| `Championship-Story-Dubai-to-the-Stars.md` | Original championship story / problem brief | Everyone |
 | `General-Meta-Prompt-Template.md` | Reusable template | Template creators |
 | `Original-Space-Travel-Meta-Prompt.md` | Domain-specific instance | Example study |
 | `Space-Travel-Prompting-Template.md` | Generated specification | Implementation reference |
